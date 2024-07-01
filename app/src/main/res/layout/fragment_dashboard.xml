@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:id="@+id/navigation_dashboard">
+
+
+   <include
+       android:id="@+id/cardTotalUangKas"
+       layout="@layout/card_view"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintBottom_toBottomOf="parent"/>
+
+   <include
+       android:id="@+id/cardPemasukan"
+       layout="@layout/card_view_pemasukan"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintBottom_toBottomOf="parent"/>
+
+   <include
+       android:id="@+id/cardPengeluaran"
+       layout="@layout/card_view_pengeluaran"
+       app:layout_constraintTop_toTopOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</LinearLayout>

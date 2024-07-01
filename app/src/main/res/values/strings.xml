@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sakuku</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transaksi">Transaksi</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_report">Report</string>
+    <string-array name="categories">
+        <item>Pembayaran kas</item>
+        <item>Pembayaran iuran</item>
+        <item>Other</item>
+    </string-array>
+</resources>
