@@ -1,4 +1,4 @@
-![image](https://github.com/mrizky19/kasKelasMobile/assets/94947436/ede2f879-fec1-45a2-82a4-1e408e5d1a3c)# Aplikasi Kas
+# Aplikasi Kas
 
 Aplikasi Kas adalah aplikasi mobile yang dirancang untuk membantu pengguna dalam mengelola keuangan mereka dengan mudah dan efisien. Aplikasi ini memungkinkan pengguna untuk mencatat pemasukan dan pengeluaran, melihat laporan keuangan, dan mengatur anggaran bulanan.
 
@@ -43,16 +43,16 @@ Untuk menginstal aplikasi ini, ikuti langkah-langkah berikut:
 Berikut adalah beberapa tangkapan layar dari Aplikasi Kas:
 
 ### Halaman Beranda
-<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/fcddd08a-af97-40a0-adbb-605cc5c389d3" alt="Halaman Beranda" width="300">
+<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/b99e75dd-8931-4d4c-b688-8992c811faba" alt="Halaman Beranda" width="300">
 
 ### Pencatatan Transaksi
-<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/09bd9453-b0f2-4068-93e9-d88e53e94052" alt="Halaman Beranda" width="300">
+<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/da969dcc-cb7c-48fd-a0bf-853362c0c0ad" alt="Halaman Beranda" width="300">
 
 ### Tambah Anggota
-<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/080a7b77-8871-428d-b527-48fd41fd88b0" alt="Halaman Beranda" width="300">
+<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/85f90ef2-5672-4a38-96bd-134021d5e590" alt="Halaman Beranda" width="300">
 
 ### Report Kas
-![Pengaturan Anggaran](images/budget_setting.png)
+<img src="https://github.com/mrizky19/kasKelasMobile/assets/94947436/c6f76b83-27b3-48c0-afb3-63275328ebf6" alt="Halaman Beranda" width="300">
 
 ## Kontribusi
 
